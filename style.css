@@ -1,0 +1,91 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  
+}
+.navbar {
+
+display: flex;
+}
+body{
+    font-weight: bold;
+    background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg");
+ 
+}
+li {
+  list-style-type: none;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  font-style: italic;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+h1 {
+  margin-top: 17px;
+  color: white;
+  font-style: italic;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 20px;
+}
+li:hover {
+  color: gray;
+}
+.input {
+  display: flex;
+  justify-content: flex-end;
+}
+input {
+  height: 20px;
+  margin-top: 20px;
+  margin-left: 180px;
+  outline: 1px solid red;
+}
+.btn {
+  height: 25px;
+  margin-top: 20px;
+  padding: 5px;
+  margin-left: 10px;
+  background: none;
+  color: white;
+  border: 1px solid white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+
+.h2p{
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    
+} 
+h2{
+    margin-top:150px; 
+
+}
+button{
+    margin-left: 500px;
+    margin-top: 40px;
+    padding: 10PX;
+    border-radius: 10PX;
+    background: black;
+    color: white;
+    border: white;
+   outline: 1s;
+    cursor: pointer;
+    
+}
+img{
+  width: 50px;
+  height: 50px;
+  margin-left: 60px;
+  margin-top: -33px;
+}
