@@ -1,16 +1,13 @@
 * {
   margin: 0px;
   padding: 0px;
-  
 }
 .navbar {
-
-display: flex;
+  display: flex;
 }
-body{
-    font-weight: bold;
-    background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg");
- 
+body {
+  font-weight: bold;
+  background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg");
 }
 li {
   list-style-type: none;
@@ -57,38 +54,34 @@ input {
   cursor: pointer;
 }
 
-
-.h2p{
-    text-align: center;
-    color: white;
-    font-size: 35px;
-    font-family: sans-serif;
-    font-style: italic;
-    font-weight: bold;
-    
-} 
-h2{
-    margin-top:150px; 
-
+.h2p {
+  text-align: center;
+  color: white;
+  font-size: 35px;
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: bold;
 }
-button{
-    margin-left: 500px;
-    margin-top: 40px;
-    padding: 10PX;
-    border-radius: 10PX;
-    background: black;
-    color: white;
-    border: white;
-   outline: 1s;
-    cursor: pointer;
-    
+h2 {
+  margin-top: 150px;
 }
-img{
+button {
+  margin-left: 500px;
+  margin-top: 40px;
+  padding: 10px;
+  border-radius: 10px;
+  background: black;
+  color: white;
+  border: white;
+  outline: 1s;
+  cursor: pointer;
+}
+img {
   width: 50px;
   height: 50px;
   margin-left: 60px;
   margin-top: -33px;
 }
-.h2{
+.h2 {
   color: black;
 }

@@ -1,3 +1,3 @@
-alert ("Hello")
-alert ("WEB DEVELOPMENT PAGE")
-alert ("My name is mustafa")
+alert ("HELLO")
+alert ("Web DEVELOPMENT PAGE")
+alert ("MY NAME IS MUSTAFA")
